@@ -8,5 +8,6 @@ Repositório das atividades HTML de WEB I
 Lista de atividades:
 - Atividade 1
 - Atividade 2
-[CLASSROOM](https://classroom.google.com/c/Njg1NDY5Mzk3MDg5/m/Njg2MDcxMzM0MzU1/details)
+- [CLASSROOM](https://classroom.google.com/c/Njg1NDY5Mzk3MDg5/m/Njg2MDcxMzM0MzU1/details)
+- [HTML](https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/exerc%C3%ADciopage.html)
 
