@@ -1,13 +1,13 @@
 # Atividades-WEB-I---HTML
 Repositório das atividades HTML de WEB I
 
-# Heading 1
-## Heading 2
-### Heading 3
-
 Lista de atividades:
 - Atividade 1
 - Atividade 2
-- [CLASSROOM](https://classroom.google.com/c/Njg1NDY5Mzk3MDg5/m/Njg2MDcxMzM0MzU1/details)
-- [HTML](https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/exerc%C3%ADciopage.html)
+- Atividade 3
+- Atividade 4
+- Atividade 5
+- Atividade 6
+- Atividade 7
+
 
