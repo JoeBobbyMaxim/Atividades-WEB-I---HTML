@@ -9,5 +9,7 @@ Lista de atividades:
 - Atividade 5
 - Atividade 6
 - Atividade 7
+- Atividade 8
+- Atividade 9
 
 
