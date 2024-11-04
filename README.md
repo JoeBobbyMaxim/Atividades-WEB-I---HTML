@@ -14,3 +14,5 @@ Lista de atividades:
 - Atividade 10
 - Atividade 11
 - Atividade 12
+- Atividade 13
+- Atividade 14
