@@ -2,17 +2,17 @@
 Repositório das atividades HTML de WEB I
 
 Lista de atividades:
-- Atividade 1
-- Atividade 2
-- Atividade 3
-- Atividade 4
-- Atividade 5
-- Atividade 6
-- Atividade 7
-- Atividade 8
-- Atividade 9
-- Atividade 10
-- Atividade 11
-- Atividade 12
-- Atividade 13
-- Atividade 14
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade1.html">Atividade 1</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade2.html">Atividade 2</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade3.html">Atividade 3</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade4.html">Atividade 4</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade5.html">Atividade 5</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade6.html">Atividade 6</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade7.html">Atividade 7</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade8.html">Atividade 8</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade9.html">Atividade 9</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade10.html">Atividade 10</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade11.html">Atividade 11</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade12.html">Atividade 12</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade13.html">Atividade 13</a>
+- <a href="https://github.com/JoeBobbyMaxim/Atividades-WEB-I---HTML/blob/main/Atividade14.html">Atividade 14</a>
